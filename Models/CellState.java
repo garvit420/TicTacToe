@@ -1,5 +1,6 @@
-package Models;
+package org.example.models;
 
 public enum CellState {
-    empty, filled, blocked
+    EMPTY,
+    FILLED
 }
